@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Bem vindo(a) à ZiYOU!</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Saira:wght@500;700;800" rel="stylesheet" type="text/css">
+    <style>
+      @media only screen and (max-width: 400px) {
+              .objectives__button {
+                  padding: 16px 32px;
+              }
+              .product__wrapper {
+                  display: table;
+              }
+              .product {
+                  width: 100%;
+              }
+          }
+		
+    body {
+    background-color: #F7F8F9;
+}
+    </style>
+  </head>
+  
+  <body style="margin: 0;">
+    <table class="content" style="table-layout: fixed;max-width: 600px;margin: 0 auto;background-color: #FFFFFF;border-spacing: 0;width: 100%;">
+      <tr class="content__section" style="padding: 0 32px;background-color: #fff;">
+        <td class="content__header-row" colspan="2" style="background-color: #212529;padding: 0;text-align: center;width: 100%;">
+          <img src="images/logo.png" alt="ZiYou logo" class="ziyou-logo" style="padding: 20px;">
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="greetings" style="background-color: #F7F8F9;"><h1 class="greetings__title" style="font-family: 'Saira', sans-serif;font-style: normal;font-weight: 800;font-size: 32px;line-height: 40px;text-align: center;color: #000000;margin: 0;"></h1>
+          <h1 class="greetings__title" style="font-family: 'Saira', sans-serif;font-style: normal;font-weight: 800;font-size: 32px;line-height: 40px;text-align: center;color: #E3E3E3;margin: 0; background-color: #F7F8F9;"><br></h1>
+
+			<h1 class="greetings__title" style="font-family: 'Saira', sans-serif;font-style: normal;font-weight: 800;font-size: 32px;line-height: 40px;text-align: center;color: #000000;margin: 0; background-color: #FFFFFF;"><br>[Maria] você chegou!<br>Nossas boas vindas a você!
+		<br><br>
+				<p class="greetings__subtitle" style="font-family: 'Roboto', sans-serif;font-style: normal;font-weight: normal;font-size: 16px;line-height: 150%;text-align: center;color: #000000;margin: 0px 0;padding: 0 32px; background-color: #FFFFFF;">Esse é apenas o começo de uma incrível jornada conosco!<br><br></p></h1>
+          <a href="#" target="_blank">
+                      <img src="images/imagem-esteira.png" alt="Bem vindo(a) à ZiYou!" class="greetings__image" style="max-width: 610px;display: block;margin: 0 auto;width: 100%;">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="objectives" style="background-color: #FFFFFF;padding-bottom: 24px;">
+          <div class="objectives__content" style="max-width: 512px;margin: 0 auto;">
+            <h1 class="objectives__title" style="font-family: 'Saira', sans-serif;font-style: normal;font-weight: 800;font-size: 20px;line-height: 170%;color: #000000;padding: 24px 24px 0;">Na ZiYou você é livre para se manter em movimento onde, quando e como quiser!</h1>
+            <p class="objectives__subtitle" style="font-family: 'Roboto', sans-serif;font-style: normal;font-weight: normal;font-size: 16px;line-height: 170%;color: #000000;max-width: 480px;padding: 0 24px;margin-top: 24px;margin-bottom: 48px;">
+            Nascemos do desejo de melhorar a sua qualidade de vida! Confira as diversas modalidades de equipamentos disponíveis para você receber em casa, além de ter acesso a conteúdos e aulas para te instruir e te motivar durante a sua atividade física.<br><br> Estamos a um clique de distância.<br><br>
+		    Venha fazer parte dessa comunidade!<br>
+</p>
+			 
+			  <center><a href="https://ziyou.com.br/assinaturas"><img src="images/botao.png" width="200px" height="50px" alt=""></a></center> 
+			</div>
+			
+        </td>
+      </tr>
+		
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#F7F8F9">
+  <tr>
+  <td align="center">
+  <table width="600" border="0" cellspacing="0" cellpadding="0" class="mobile-shell">
+    <tr>
+    
+    <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%; mso-cellspacing:0px; mso-padding-alt:0px 0px 0px 0px">
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%; mso-cellspacing:0px; mso-padding-alt:0px 0px 0px 0px">
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%; mso-cellspacing:0px; mso-padding-alt:0px 0px 0px 0px">
+
+						
+    <!-- #region Jssor Slider Begin -->
+    <!-- Generator: Jssor Slider Composer -->
+    <!-- Source: https://www.jssor.com/demos/carousel-slider.slider/=edit -->
+    <script src="js/jssor.slider-28.1.0.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        window.jssor_1_slider_init = function() {
+
+            var jssor_1_options = {
+              $AutoPlay: 1,
+              $AutoPlaySteps: 5,
+              $SlideDuration: 160,
+              $SlideWidth: 200,
+              $SlideSpacing: 3,
+              $ArrowNavigatorOptions: {
+                $Class: $JssorArrowNavigator$,
+                $Steps: 5
+              },
+              $BulletNavigatorOptions: {
+                $Class: $JssorBulletNavigator$,
+                $SpacingX: 16,
+                $SpacingY: 16
+              }
+            };
+
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+            /*#region responsive code begin*/
+
+            var MAX_WIDTH = 600;
+
+            function ScaleSlider() {
+                var containerElement = jssor_1_slider.$Elmt.parentNode;
+                var containerWidth = containerElement.clientWidth;
+
+                if (containerWidth) {
+
+                    var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+
+                    jssor_1_slider.$ScaleWidth(expectedWidth);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
+
+            ScaleSlider();
+
+            $Jssor$.$AddEvent(window, "load", ScaleSlider);
+            $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+            $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+            /*#endregion responsive code end*/
+        };
+    </script>
+    <style>
+        /*jssor slider loading skin spin css*/
+        .jssorl-009-spin img {
+            animation-name: jssorl-009-spin;
+            animation-duration: 1.6s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+
+        @keyframes jssorl-009-spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /*jssor slider bullet skin 057 css*/
+        .jssorb057 .i {position:absolute;cursor:pointer;}
+        .jssorb057 .i .b {fill:none;stroke:#fff;stroke-width:2000;stroke-miterlimit:10;stroke-opacity:0.4;}
+        .jssorb057 .i:hover .b {stroke-opacity:.5;}
+        .jssorb057 .iav .b {stroke-opacity: 1;}
+        .jssorb057 .i.idn {opacity:.3;}
+
+        /*jssor slider arrow skin 073 css*/
+        .jssora073 {display:block;position:absolute;cursor:pointer;}
+        .jssora073 .a {fill:#ddd;fill-opacity:.0;stroke:#000;stroke-width:160;stroke-miterlimit:10;stroke-opacity:.7;}
+        .jssora073:hover {opacity:.8;}
+        .jssora073.jssora073dn {opacity:.4;}
+        .jssora073.jssora073ds {opacity:.3;pointer-events:none;}
+    </style>
+						  
+		
+		<img src="images/vantagens.jpg" width="600px" alt="">
+		
+    <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:150px;overflow:hidden;visibility:hidden;">
+        <!-- Loading Screen -->
+        <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
+            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="images/spin.svg" />
+        </div>
+        <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:150px;overflow:hidden;">
+            <div>
+                <img data-u="image" src="images/001.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/005.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/007.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/008.jpg" />
+            </div>
+            <div>
+                <img src="images/009.jpg" data-u="image" />
+            </div>
+			           <div>
+                <img data-u="image" src="images/001.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/005.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/007.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="images/008.jpg" />
+            </div>
+            <div>
+                <img src="images/009.jpg" data-u="image" />
+            </div>
+        </div><a data-scale="0" href="https://www.jssor.com" style="display:none;position:absolute;"></a>
+        <!-- Bullet Navigator -->
+        <div data-u="navigator" class="jssorb057" style="position:absolute;bottom:12px;right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+            <div data-u="prototype" class="i" style="width:14px;height:14px;">
+                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                    <circle class="b" cx="8000" cy="8000" r="5000"></circle>
+                </svg>
+            </div>
+        </div>
+        <!-- Arrow Navigator -->
+        <div data-u="arrowleft" class="jssora073" style="width:50px;height:50px;top:0px;left:30px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+            <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                <path class="a" d="M4037.7,8357.3l5891.8,5891.8c100.6,100.6,219.7,150.9,357.3,150.9s256.7-50.3,357.3-150.9 l1318.1-1318.1c100.6-100.6,150.9-219.7,150.9-357.3c0-137.6-50.3-256.7-150.9-357.3L7745.9,8000l4216.4-4216.4 c100.6-100.6,150.9-219.7,150.9-357.3c0-137.6-50.3-256.7-150.9-357.3l-1318.1-1318.1c-100.6-100.6-219.7-150.9-357.3-150.9 s-256.7,50.3-357.3,150.9L4037.7,7642.7c-100.6,100.6-150.9,219.7-150.9,357.3C3886.8,8137.6,3937.1,8256.7,4037.7,8357.3 L4037.7,8357.3z"></path>
+            </svg>
+        </div>
+        <div data-u="arrowright" class="jssora073" style="width:50px;height:50px;top:0px;right:30px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+            <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                <path class="a" d="M11962.3,8357.3l-5891.8,5891.8c-100.6,100.6-219.7,150.9-357.3,150.9s-256.7-50.3-357.3-150.9 L4037.7,12931c-100.6-100.6-150.9-219.7-150.9-357.3c0-137.6,50.3-256.7,150.9-357.3L8254.1,8000L4037.7,3783.6 c-100.6-100.6-150.9-219.7-150.9-357.3c0-137.6,50.3-256.7,150.9-357.3l1318.1-1318.1c100.6-100.6,219.7-150.9,357.3-150.9 s256.7,50.3,357.3,150.9l5891.8,5891.8c100.6,100.6,150.9,219.7,150.9,357.3C12113.2,8137.6,12062.9,8256.7,11962.3,8357.3 L11962.3,8357.3z"></path>
+            </svg>
+        </div>
+    </div>
+    <script type="text/javascript">jssor_1_slider_init();
+    </script>
+    <!-- #endregion Jssor Slider End -->
+					
+      <tr class="content__footer" style="background-color: #FFFFFF;">
+        <td class="content__footer-text" colspan="2" style="width: 50%;">
+          <p class="content__footer-copyright-text" style="color: #424950;font-family: 'Roboto', sans-serif;font-size: 12px;font-style: normal;font-weight: 500;line-height: 19px;text-align: center;padding: 24px 18px 24px 24px;margin: 0;">
+            </p>
+        </td>
+      </tr>
+		
+		
+		     <tr class="content__footer" style="background-color: #DEE3E8;">
+        <td class="content__footer-text" colspan="2" style="width: 50%;">
+          <p class="content__footer-copyright-text" style="color: #424950;font-family: 'Roboto', sans-serif;font-size: 12px;font-style: normal;font-weight: 500;line-height: 19px;text-align: center;padding: 24px 18px 24px 24px;margin: 0;">
+			  <a href="https://www.facebook.com/ziyouapp/" target="_blank"><img src="images/facebook.png" alt="Facebook" width="30"></a>&nbsp; &nbsp;&nbsp;
+			  <a href="https://br.linkedin.com/company/ziyouapp" target="_blank"><img src="images/linkedin.png" alt="Linkedin" width="30"></a>&nbsp; &nbsp;&nbsp;
+			  <a href="https://www.instagram.com/ziyouapp/" target="_blank"><img src="images/instagram.png" alt="Instagram" width="30"></a><br><br>
+			  Enviado por <u><a href="https://ziyou.com.br/" target="_blank">ziyou.com.br</a></u><br>
+			  Rua Jardim Ivone, 17 | 8º andar - São Paulo, SP<br><br>
+			  Se deseja não receber mais mensagens como esta, clique <u>aqui</u>.
+            </p>
+        </td>
+      </tr>
+		
+		      <tr class="content__footer" style="background-color: #212529;">
+        <td class="content__footer-text" colspan="2" style="width: 50%;">
+          <p class="content__footer-copyright-text" style="color: #FFFFFF;font-family: 'Saira', sans-serif;font-size: 16px;font-style: normal;font-weight: 500;line-height: 19px;text-align: center;padding: 24px 18px 24px 24px;margin: 0;">
+              ZiYou, 2021
+            </p>
+        </td>
+      </tr>
+		
+    </table>
+</body>
+
+</html>
